@@ -2774,7 +2774,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .calltoaction-area .overlay-bg {
-  background-color: rgba(250, 183, 0, 0.75);
+  background-color: rgba(250, 183, 250, 0.75);
 }
 
 @media (max-width: 392px) {
