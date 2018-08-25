@@ -2262,7 +2262,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn {
-  background-color: #ffa500;
+  background-color: #FD6A02;
   line-height: 42px;
   padding-left: 30px;
   padding-right: 30px;
@@ -2297,8 +2297,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .primary-btn:hover {
   background: transparent;
-  color: #fab700;
-  border-color: #fab700;
+  color: #FD6A02;
+  border-color: #FD6A02;
 }
 
 .primary-btn.white {
@@ -2312,11 +2312,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .primary-btn.white:hover {
   background: #fff;
-  color: #fab700;
+  color: #FD6A02;
 }
 
 .primary-btn.white:hover span {
-  color: #fab700;
+  color: #FD6A02;
 }
 
 .overlay {
@@ -2667,7 +2667,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .process-area .single-process:hover .lnr {
-  color: #fab700;
+  color: #FD6A02;
 }
 
 .testomial-area .owl-carousel .owl-item img {
@@ -2742,7 +2742,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-testimonial:hover h4 {
-  color: #ffa500;
+  color: #FD6A02;
 }
 
 .calltoaction-area {
